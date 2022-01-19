@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/anuta/AndroidStudioProjects/lab6/lab6_1coroutine/src/main/res/layout/activity_main_coroutine.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/anuta/AndroidStudioProjects/lab6/lab6_1executeser/src/main/res/layout/activity_executor_service_application.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/anuta/AndroidStudioProjects/lab6/lab6_1executeser/src/main/res/layout/activity_main.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/anuta/AndroidStudioProjects/lab6/lab6_1treads/src/main/res/layout/activity_main.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/anuta/AndroidStudioProjects/lab6/lab6_1treads/src/main/res/layout/activity_main_java_tread.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/anuta/AndroidStudioProjects/lab6/lab6_2/src/main/res/layout/activity_execute_servise.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/anuta/AndroidStudioProjects/lab6/lab6_2/src/main/res/layout/activity_main.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/anuta/AndroidStudioProjects/lab6/lab6_3/src/main/res/layout/activity_main.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/anuta/AndroidStudioProjects/lab6/lab6_4/src/main/res/layout/activity_main.xml" value="0.10144927536231885" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
